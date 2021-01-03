@@ -1,9 +1,4 @@
-/**
- * @coding UTF-8
- * @author LUO
- * @date 2020-10-27
- * @description 第九章9-11
- */
+
 public class TotalArea {
 	/** Main method */
 	public static void main(String[] args) {
