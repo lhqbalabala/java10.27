@@ -1,9 +1,4 @@
-/**
- * @coding UTF-8
- * @author LUO
- * @data 2020-10-27
- * @description 第九章9-1
- */
+
 
 public class TestSimpleCircle {
 	/** Main method */
