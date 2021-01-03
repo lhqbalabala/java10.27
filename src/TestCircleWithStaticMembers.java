@@ -1,9 +1,3 @@
-/**
- * @coding UTF-8
- * @author LUO
- * @date 2020-10-27
- * @description 第九章9-7
- */
 
 public class TestCircleWithStaticMembers {
 	/** Main method */
